@@ -67,27 +67,17 @@ Também iremos disponibilizar o protótipo da tela que você deverá nos entrega
 - Deve conter uma lista com linguagem, framework e/ou tecnologias usadas
 - Como instalar e usar o projeto (instruções)
 - Não esqueça o [.gitignore](https://www.toptal.com/developers/gitignore)
-- Se está usando github pessoal, referencie que é um challenge by coodesh:
+- Se está usando github pessoal, referencie que é um challenge by coodesh:  
 
 >  This is a challenge by [Coodesh](https://coodesh.com/)
 
 ## Finalização e Instruções para a Apresentação
 
-Avisar sobre a finalização e enviar para correção.
+1. Adicione o link do repositório com a sua solução no teste
+2. Verifique se o Readme está bom e faça o commit final em seu repositório;
+3. Envie e aguarde as instruções para seguir. Caso o teste tenha apresentação de vídeo, dentro da tela de entrega será possível gravar após adicionar o link do repositório. Sucesso e boa sorte. =)
 
-1. Confira se você respondeu o Scorecard da Vaga que chegou no seu email;
-2. Confira se você respondeu o Mapeamento Comportamental que chegou no seu email;
-3. Acesse: [https://coodesh.com/challenges/review](https://coodesh.com/challenges/review);
-4. Adicione o repositório com a sua solução;
-5. Grave um vídeo, utilizando o botão na tela de solicitar revisão da Coodesh, com no máximo 5 minutos, com a apresentação do seu projeto. Foque em pontos obrigatórios e diferenciais quando for apresentar.
-6. Adicione o link da apresentação do seu projeto no README.md.
-7. Verifique se o Readme está bom e faça o commit final em seu repositório;
-8. Confira a vaga desejada;
-9. Envie e aguarde as instruções para seguir no processo. Sucesso e boa sorte. =)
 
 ## Suporte
 
-Use o nosso canal no slack: http://bit.ly/32CuOMy para tirar dúvidas sobre o processo ou envie um e-mail para contato@coodesh.com.
-
-
-
+Para tirar dúvidas sobre o processo envie uma mensagem diretamente a um especialista no chat da plataforma. 
